@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SPACE X</string>
+    <string name="upcomingLaunch">Yaklaşan Fırlatma</string>
+    <string name="launchName">Starlink Görevi</string>
+    <string name="detailsText">Detaylar</string>
+    <string name="dateText">Tarih:</string>
+    <string name="date">4 Ekim</string>
+    <string name="timeText">Saat:</string>
+    <string name="time">4:48 p.m. PT (23:48 UTC)</string>
+    <string name="locationText">Konum:</string>
+    <string name="location">Vandenberg Uzay Kuvvetleri Üssü Kaliforniya/ABD</string>
+    <string name="rocketText">Roket:</string>
+    <string name="rocketName">Falcon 9</string>
+    <string name="routeHeader">Rota</string>
+    <string name="socialMedia">Sosyal Medya</string>
+    <string name="youtubeText">YouTube</string>
+    <string name="twitterText">Twitter</string>
+    <string name="flickrText">Flickr</string>
+    <string name="abortText">GÖREVİ İPTAL ET!</string>
+    <string name="manageText">Yönetim</string>
+    <string name="launchText">FIRLAT!</string>
+</resources>

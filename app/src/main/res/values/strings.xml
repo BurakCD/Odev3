@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SPACE X</string>
+    <string name="upcomingLaunch">Upcoming Launch</string>
+    <string name="launchName">Starlink Mission</string>
+    <string name="detailsText">Details</string>
+    <string name="dateText">Date:</string>
+    <string name="date">October 4</string>
+    <string name="timeText">Time:</string>
+    <string name="time">4:48 p.m. PT (23:48 UTC)</string>
+    <string name="locationText">Location:</string>
+    <string name="location">Vandenberg Space Force Base California/USA</string>
+    <string name="rocketText">Rocket:</string>
+    <string name="rocketName">Falcon 9</string>
+    <string name="routeHeader">Route</string>
+    <string name="socialMedia">Social Media</string>
+    <string name="youtubeText">YouTube</string>
+    <string name="twitterText">Twitter</string>
+    <string name="flickrText">Flickr</string>
+    <string name="abortText">ABORT MISSION!</string>
+    <string name="manageText">Management</string>
+    <string name="launchText">LAUNCH!</string>
+</resources>
